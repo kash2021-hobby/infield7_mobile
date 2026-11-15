@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556437002611",
+    "project_id": "infield7",
+    "storage_bucket": "infield7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556437002611:android:43a78e483e6eeb04064d06",
+        "android_client_info": {
+          "package_name": "com.infield7.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jTucFVxiZyYg0q9V52sNNuz2jdD_coc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
